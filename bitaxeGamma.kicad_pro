@@ -65,6 +65,10 @@
           ""
         ],
         [
+          "clearance|90660000|77965000|8d046e13-7e2d-4ff0-9559-2cfcd77fe3ee|185b5380-0929-49b1-8a95-d46cd9195d86",
+          ""
+        ],
+        [
           "clearance|90724500|77715000|185b5380-0929-49b1-8a95-d46cd9195d86|85b27beb-a0d4-4c54-b7d2-67e9b6d6a80d",
           ""
         ],
@@ -152,9 +156,9 @@
         "allow_blind_buried_vias": false,
         "allow_microvias": false,
         "max_error": 0.005,
-        "min_clearance": 0.0,
-        "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.0,
+        "min_clearance": 0.15,
+        "min_connection": 0.15,
+        "min_copper_edge_clearance": 0.15,
         "min_groove_width": 0.0,
         "min_hole_clearance": 0.25,
         "min_hole_to_hole": 0.25,
@@ -165,7 +169,7 @@
         "min_text_height": 0.5,
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.2,
+        "min_track_width": 0.15,
         "min_via_annular_width": 0.05,
         "min_via_diameter": 0.4,
         "solder_mask_clearance": 0.0,
@@ -746,12 +750,6 @@
       "fields_ordered": [
         {
           "group_by": false,
-          "label": "Qty",
-          "name": "${QUANTITY}",
-          "show": true
-        },
-        {
-          "group_by": false,
           "label": "Reference",
           "name": "Reference",
           "show": true
@@ -763,16 +761,28 @@
           "show": true
         },
         {
+          "group_by": true,
+          "label": "Footprint",
+          "name": "Footprint",
+          "show": false
+        },
+        {
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
           "show": false
         },
         {
-          "group_by": true,
-          "label": "Footprint",
-          "name": "Footprint",
-          "show": false
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Qty",
+          "name": "${QUANTITY}",
+          "show": true
         },
         {
           "group_by": false,
@@ -782,8 +792,20 @@
         },
         {
           "group_by": false,
-          "label": "PARTNO",
-          "name": "PARTNO",
+          "label": "MF",
+          "name": "MF",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MPN",
+          "name": "MPN",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Alt. MPN",
+          "name": "Alt. MPN",
           "show": true
         },
         {
@@ -791,12 +813,6 @@
           "label": "DK",
           "name": "DK",
           "show": true
-        },
-        {
-          "group_by": false,
-          "label": "HEIGHT",
-          "name": "HEIGHT",
-          "show": false
         },
         {
           "group_by": false,
@@ -811,15 +827,15 @@
           "show": false
         },
         {
+          "group_by": false,
+          "label": "exclude_from_bom",
+          "name": "exclude_from_bom",
+          "show": false
+        },
+        {
           "group_by": true,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
-        },
-        {
-          "group_by": false,
-          "label": "Description",
-          "name": "Description",
           "show": false
         }
       ],

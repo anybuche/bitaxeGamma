@@ -1877,7 +1877,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 90.805 177.165 0)
 			(effects
 				(font
@@ -1885,7 +1885,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 90.805 177.165 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 90.805 177.165 0)
 			(effects
 				(font
@@ -1957,7 +1965,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 90.805 182.245 0)
 			(effects
 				(font
@@ -1965,7 +1973,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 90.805 182.245 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 90.805 182.245 0)
 			(effects
 				(font
@@ -2037,7 +2053,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 90.805 187.96 0)
 			(effects
 				(font
@@ -2045,7 +2061,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 90.805 187.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 90.805 187.96 0)
 			(effects
 				(font
@@ -2117,7 +2141,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 109.855 177.8 0)
 			(effects
 				(font
@@ -2125,7 +2149,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 109.855 177.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 109.855 177.8 0)
 			(effects
 				(font
@@ -2196,7 +2228,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 80.01 43.18 0)
 			(effects
 				(font
@@ -2204,7 +2236,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 80.01 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 80.01 43.18 0)
 			(effects
 				(font
@@ -2278,7 +2318,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 80.01 48.26 0)
 			(effects
 				(font
@@ -2286,7 +2326,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 80.01 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 80.01 48.26 0)
 			(effects
 				(font
@@ -2362,7 +2410,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 66.04 186.69 0)
 			(effects
 				(font
@@ -2370,7 +2418,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 66.04 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 66.04 186.69 0)
 			(effects
 				(font
@@ -2434,7 +2490,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "DC Barrel Jack with an internal switch"
+		(property "Description" "CONN JACK R/A SMT 5.5X2.1MM"
 			(at 64.77 45.72 0)
 			(effects
 				(font
@@ -2452,15 +2508,6 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "54-00164"
-			(at 64.77 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(property "LCSC" "C431534"
 			(at 64.77 45.72 0)
 			(effects
@@ -2470,20 +2517,40 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
-			(at 64.77 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Mouser" ""
 			(at 64.77 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Tensility"
+			(at 64.77 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "54-00164"
+			(at 64.77 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 64.77 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -2559,7 +2626,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 38.1 154.94 0)
 			(effects
 				(font
@@ -2567,7 +2634,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 38.1 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 38.1 154.94 0)
 			(effects
 				(font
@@ -2643,7 +2718,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 66.04 180.34 0)
 			(effects
 				(font
@@ -2651,7 +2726,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 66.04 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 66.04 180.34 0)
 			(effects
 				(font
@@ -2726,7 +2809,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 90.805 171.45 0)
 			(effects
 				(font
@@ -2734,7 +2817,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 90.805 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 90.805 171.45 0)
 			(effects
 				(font
@@ -2806,7 +2897,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 109.855 188.595 0)
 			(effects
 				(font
@@ -2814,7 +2905,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 109.855 188.595 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 109.855 188.595 0)
 			(effects
 				(font
@@ -2886,7 +2985,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 109.855 172.085 0)
 			(effects
 				(font
@@ -2894,7 +2993,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 109.855 172.085 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 109.855 172.085 0)
 			(effects
 				(font
@@ -2967,7 +3074,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 66.04 173.99 0)
 			(effects
 				(font
@@ -2975,7 +3082,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 66.04 173.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 66.04 173.99 0)
 			(effects
 				(font
@@ -3050,7 +3165,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 109.855 182.88 0)
 			(effects
 				(font
@@ -3058,7 +3173,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 109.855 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 109.855 182.88 0)
 			(effects
 				(font
@@ -3131,7 +3254,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 66.04 167.64 0)
 			(effects
 				(font
@@ -3139,7 +3262,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 66.04 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 66.04 167.64 0)
 			(effects
 				(font
@@ -3214,7 +3345,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 38.1 171.45 0)
 			(effects
 				(font
@@ -3222,7 +3353,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 38.1 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 38.1 171.45 0)
 			(effects
 				(font
@@ -3297,7 +3436,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 38.1 163.83 0)
 			(effects
 				(font
@@ -3305,7 +3444,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 38.1 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 38.1 163.83 0)
 			(effects
 				(font
@@ -3380,7 +3527,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 38.1 179.07 0)
 			(effects
 				(font
@@ -3388,7 +3535,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 38.1 179.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 38.1 179.07 0)
 			(effects
 				(font
@@ -3470,7 +3625,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 77.47 159.385 0)
 			(effects
 				(font
@@ -3478,7 +3633,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 77.47 159.385 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 77.47 159.385 0)
 			(effects
 				(font

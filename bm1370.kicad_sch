@@ -4779,7 +4779,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 64.77 35.56 0)
 			(effects
 				(font
@@ -4798,7 +4798,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 64.77 35.56 0)
 			(effects
 				(font
@@ -4807,20 +4807,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 64.77 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 64.77 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 64.77 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4883,7 +4894,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 30.48 35.56 0)
 			(effects
 				(font
@@ -4901,7 +4912,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 30.48 35.56 0)
 			(effects
 				(font
@@ -4910,20 +4921,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 30.48 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 30.48 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 30.48 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4987,7 +5009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100UF 6.3V X5R 1206"
 			(at 160.02 57.15 0)
 			(effects
 				(font
@@ -5005,7 +5027,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL31A107MQHNNNE"
+		(property "Mouser" ""
 			(at 160.02 57.15 0)
 			(effects
 				(font
@@ -5014,20 +5036,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Samsung"
 			(at 160.02 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "CL31A107MQHNNNE"
 			(at 160.02 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 160.02 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5090,7 +5123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 118.11 85.09 0)
 			(effects
 				(font
@@ -5108,7 +5141,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 118.11 85.09 0)
 			(effects
 				(font
@@ -5117,20 +5150,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 118.11 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 118.11 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 118.11 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5202,7 +5246,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 229.87 114.3 0)
 			(effects
 				(font
@@ -5210,7 +5254,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 229.87 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 229.87 114.3 0)
 			(effects
 				(font
@@ -5284,7 +5336,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 229.87 109.22 0)
 			(effects
 				(font
@@ -5292,7 +5344,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 229.87 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 229.87 109.22 0)
 			(effects
 				(font
@@ -5366,7 +5426,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 229.87 111.76 0)
 			(effects
 				(font
@@ -5374,7 +5434,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 229.87 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 229.87 111.76 0)
 			(effects
 				(font
@@ -5439,7 +5507,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 190.5 85.09 0)
 			(effects
 				(font
@@ -5457,7 +5525,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 190.5 85.09 0)
 			(effects
 				(font
@@ -5466,20 +5534,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 190.5 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 190.5 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 190.5 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5542,7 +5621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 201.93 85.09 0)
 			(effects
 				(font
@@ -5560,7 +5639,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 201.93 85.09 0)
 			(effects
 				(font
@@ -5569,20 +5648,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 201.93 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 201.93 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 201.93 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5645,7 +5735,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 16V X5R 0402"
 			(at 43.18 180.34 0)
 			(effects
 				(font
@@ -5663,7 +5753,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL05A104KO5NNNC"
+		(property "Mouser" ""
 			(at 43.18 180.34 0)
 			(effects
 				(font
@@ -5672,20 +5762,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Samsung"
 			(at 43.18 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "CL05A104KO5NNNC"
 			(at 43.18 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 43.18 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5815,7 +5916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 177.8 85.09 0)
 			(effects
 				(font
@@ -5833,7 +5934,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 177.8 85.09 0)
 			(effects
 				(font
@@ -5842,20 +5943,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 177.8 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 177.8 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 177.8 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -5934,24 +6046,31 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-071KL"
-			(at 81.28 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "HEIGHT" ""
-			(at 81.28 137.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Mouser" ""
+			(at 81.28 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MF" ""
+			(at 81.28 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "MPN" "RC0402FR-071KL"
+			(at 81.28 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 81.28 137.16 0)
 			(effects
 				(font
@@ -6025,7 +6144,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 101.6 137.16 0)
 			(effects
 				(font
@@ -6043,7 +6162,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 101.6 137.16 0)
 			(effects
 				(font
@@ -6052,20 +6171,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 101.6 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 101.6 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 101.6 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6138,7 +6268,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 73.66 55.88 0)
 			(effects
 				(font
@@ -6146,7 +6276,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 73.66 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 73.66 55.88 0)
 			(effects
 				(font
@@ -6211,7 +6349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 166.37 85.09 0)
 			(effects
 				(font
@@ -6229,7 +6367,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 166.37 85.09 0)
 			(effects
 				(font
@@ -6238,20 +6376,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 166.37 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 166.37 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 166.37 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6312,7 +6461,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 1K OHM 1% 1/16W 0402"
 			(at 91.44 137.16 0)
 			(effects
 				(font
@@ -6330,7 +6479,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-071KL"
+		(property "Mouser" ""
 			(at 91.44 137.16 0)
 			(effects
 				(font
@@ -6339,20 +6488,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Yageo"
 			(at 91.44 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "RC0402FR-071KL"
 			(at 91.44 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 91.44 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6421,7 +6581,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 16V X5R 0402"
 			(at 242.57 39.37 0)
 			(effects
 				(font
@@ -6439,7 +6599,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL05A104KO5NNNC"
+		(property "Mouser" ""
 			(at 242.57 39.37 0)
 			(effects
 				(font
@@ -6448,20 +6608,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Samsung"
 			(at 242.57 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "CL05A104KO5NNNC"
 			(at 242.57 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 242.57 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6523,7 +6694,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Voltage Level Translator Bidirectional 1 Circuit 4 Channel 380Mbps 16-TSSOP"
 			(at 214.63 38.1 0)
 			(effects
 				(font
@@ -6541,7 +6712,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "SN74AVC4T774PWR"
+		(property "Mouser" ""
 			(at 214.63 38.1 0)
 			(effects
 				(font
@@ -6550,20 +6721,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "TI"
 			(at 214.63 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "SN74AVC4T774PWR"
 			(at 214.63 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 214.63 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6669,7 +6851,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Unpolarized capacitor"
+		(property "Description" "CAP CER 100UF 6.3V X5R 1206"
 			(at 147.32 57.15 0)
 			(effects
 				(font
@@ -6687,7 +6869,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL31A107MQHNNNE"
+		(property "Mouser" ""
 			(at 147.32 57.15 0)
 			(effects
 				(font
@@ -6696,20 +6878,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Samsung"
 			(at 147.32 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "CL31A107MQHNNNE"
 			(at 147.32 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 147.32 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6772,7 +6965,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES 1K OHM 1% 1/16W 0402"
 			(at 218.44 93.98 0)
 			(effects
 				(font
@@ -6790,7 +6983,25 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-072KL"
+		(property "MF" "Yageo"
+			(at 218.44 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-071KL"
+			(at 218.44 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 218.44 93.98 0)
 			(effects
 				(font
@@ -6858,16 +7069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 50.8 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "MCP1824T-0802E/OT"
+		(property "Description" "IC REG LINEAR 0.8V 300MA SOT23-5"
 			(at 50.8 57.15 0)
 			(effects
 				(font
@@ -6885,20 +7087,40 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
-			(at 50.8 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Mouser" ""
 			(at 50.8 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Microchip"
+			(at 50.8 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MCP1824T-0802E/OT"
+			(at 50.8 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 50.8 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -6979,7 +7201,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 91.44 119.38 0)
 			(effects
 				(font
@@ -6987,7 +7209,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 91.44 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 91.44 119.38 0)
 			(effects
 				(font
@@ -7061,7 +7291,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 119.38 121.92 0)
 			(effects
 				(font
@@ -7069,7 +7299,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 119.38 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 119.38 121.92 0)
 			(effects
 				(font
@@ -7134,7 +7372,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 83.82 85.09 0)
 			(effects
 				(font
@@ -7152,7 +7390,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 83.82 85.09 0)
 			(effects
 				(font
@@ -7161,20 +7399,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 83.82 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 83.82 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 83.82 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7304,7 +7553,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 180.34 137.16 0)
 			(effects
 				(font
@@ -7322,7 +7571,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 180.34 137.16 0)
 			(effects
 				(font
@@ -7331,20 +7580,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 180.34 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 180.34 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 180.34 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7416,7 +7676,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 44.45 109.22 0)
 			(effects
 				(font
@@ -7424,7 +7684,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 44.45 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 44.45 109.22 0)
 			(effects
 				(font
@@ -7556,7 +7824,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 170.18 137.16 0)
 			(effects
 				(font
@@ -7574,7 +7842,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 170.18 137.16 0)
 			(effects
 				(font
@@ -7583,20 +7851,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 170.18 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 170.18 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 170.18 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -7668,7 +7947,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 73.66 170.18 0)
 			(effects
 				(font
@@ -7676,7 +7955,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 73.66 170.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 73.66 170.18 0)
 			(effects
 				(font
@@ -7741,7 +8028,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ASIC"
 			(at 140.97 111.76 0)
 			(effects
 				(font
@@ -7750,7 +8037,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 140.97 111.76 0)
 			(effects
 				(font
@@ -7758,7 +8045,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 140.97 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 140.97 111.76 0)
 			(effects
 				(font
@@ -7914,7 +8209,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 1% 1/16W 0402"
 			(at 67.31 137.16 0)
 			(effects
 				(font
@@ -7932,7 +8227,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "Mouser" ""
 			(at 67.31 137.16 0)
 			(effects
 				(font
@@ -7941,20 +8236,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Yageo"
 			(at 67.31 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "RC0402FR-0710KL"
 			(at 67.31 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 67.31 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8032,7 +8338,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 44.45 106.68 0)
 			(effects
 				(font
@@ -8040,7 +8346,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 44.45 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 44.45 106.68 0)
 			(effects
 				(font
@@ -8105,7 +8419,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 95.25 85.09 0)
 			(effects
 				(font
@@ -8123,7 +8437,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 95.25 85.09 0)
 			(effects
 				(font
@@ -8132,20 +8446,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 95.25 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 95.25 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 95.25 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8217,7 +8542,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 229.87 121.92 0)
 			(effects
 				(font
@@ -8225,7 +8550,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 229.87 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 229.87 121.92 0)
 			(effects
 				(font
@@ -8299,7 +8632,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 44.45 114.3 0)
 			(effects
 				(font
@@ -8307,7 +8640,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 44.45 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 44.45 114.3 0)
 			(effects
 				(font
@@ -8372,7 +8713,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Resistor, US symbol"
+		(property "Description" "RES 2K OHM 1% 1/16W 0402"
 			(at 195.58 121.92 0)
 			(effects
 				(font
@@ -8390,7 +8731,25 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402FR-072KL"
+		(property "MF" "Yageo"
+			(at 195.58 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RC0402FR-072KL"
+			(at 195.58 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 195.58 121.92 0)
 			(effects
 				(font
@@ -8469,7 +8828,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 73.66 29.21 0)
 			(effects
 				(font
@@ -8477,7 +8836,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 73.66 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 73.66 29.21 0)
 			(effects
 				(font
@@ -8540,7 +8907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "1.2V ±20ppm 2mA ±30ppm 25MHz CMOS SMD3225-4P Crystal Oscillators ROHS"
 			(at 41.91 171.45 0)
 			(effects
 				(font
@@ -8549,16 +8916,7 @@
 				(hide yes)
 			)
 		)
-		(property "DK" "5852-SX3M25.000E20F30THNTR-ND"
-			(at 41.91 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "SX3M25.000E20F30THN"
+		(property "DK" "1664-OXLTDLJANF-25.000000CT-ND"
 			(at 41.91 171.45 0)
 			(effects
 				(font
@@ -8568,6 +8926,33 @@
 			)
 		)
 		(property "LCSC" "C5137262"
+			(at 41.91 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "SCTF"
+			(at 41.91 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "SX3M25.000E20F30THN"
+			(at 41.91 171.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" "OXLTDLJANF-25.000000"
 			(at 41.91 171.45 0)
 			(effects
 				(font
@@ -8640,16 +9025,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 49.53 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PARTNO" "MCP1824T-1202E/OT"
+		(property "Description" "IC REG LINEAR 1.2V 300MA SOT23-5"
 			(at 49.53 30.48 0)
 			(effects
 				(font
@@ -8667,20 +9043,40 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
-			(at 49.53 30.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(property "Mouser" ""
 			(at 49.53 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Microchip"
+			(at 49.53 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MCP1824T-1202E/OT"
+			(at 49.53 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 49.53 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8752,7 +9148,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 31.75 62.23 0)
 			(effects
 				(font
@@ -8770,7 +9166,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 31.75 62.23 0)
 			(effects
 				(font
@@ -8779,20 +9175,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 31.75 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 31.75 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 31.75 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8855,7 +9262,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 106.68 85.09 0)
 			(effects
 				(font
@@ -8873,7 +9280,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 106.68 85.09 0)
 			(effects
 				(font
@@ -8882,20 +9289,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 106.68 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 106.68 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 106.68 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -8956,7 +9374,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RES 10K OHM 1% 1/16W 0402"
 			(at 58.42 137.16 0)
 			(effects
 				(font
@@ -8974,7 +9392,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "RC0402JR-0710KL"
+		(property "Mouser" ""
 			(at 58.42 137.16 0)
 			(effects
 				(font
@@ -8983,20 +9401,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Yageo"
 			(at 58.42 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "RC0402FR-0710KL"
 			(at 58.42 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 58.42 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9059,7 +9488,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 0.1UF 16V X5R 0402"
 			(at 173.99 39.37 0)
 			(effects
 				(font
@@ -9077,7 +9506,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "CL05A104KO5NNNC"
+		(property "Mouser" ""
 			(at 173.99 39.37 0)
 			(effects
 				(font
@@ -9086,20 +9515,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Samsung"
 			(at 173.99 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "CL05A104KO5NNNC"
 			(at 173.99 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 173.99 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9171,7 +9611,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 229.87 106.68 0)
 			(effects
 				(font
@@ -9179,7 +9619,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 229.87 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 229.87 106.68 0)
 			(effects
 				(font
@@ -9244,7 +9692,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 110.49 137.16 0)
 			(effects
 				(font
@@ -9262,7 +9710,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 110.49 137.16 0)
 			(effects
 				(font
@@ -9271,20 +9719,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 110.49 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 110.49 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 110.49 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9347,7 +9806,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "CAP CER 1UF 16V X5R 0402"
 			(at 66.04 62.23 0)
 			(effects
 				(font
@@ -9366,7 +9825,7 @@
 				(hide yes)
 			)
 		)
-		(property "PARTNO" "EMK105BJ105MV-F"
+		(property "Mouser" ""
 			(at 66.04 62.23 0)
 			(effects
 				(font
@@ -9375,20 +9834,31 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "MF" "Taiyo Yuden"
 			(at 66.04 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Mouser" ""
+		(property "MPN" "EMK105BJ105MV-F"
 			(at 66.04 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Alt. MPN" ""
+			(at 66.04 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -9460,7 +9930,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 44.45 104.14 0)
 			(effects
 				(font
@@ -9468,7 +9938,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 44.45 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 44.45 104.14 0)
 			(effects
 				(font
@@ -9542,7 +10020,7 @@
 				(hide yes)
 			)
 		)
-		(property "HEIGHT" ""
+		(property "Mouser" ""
 			(at 229.87 104.14 0)
 			(effects
 				(font
@@ -9550,7 +10028,15 @@
 				)
 			)
 		)
-		(property "Mouser" ""
+		(property "MF" ""
+			(at 229.87 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Alt. MPN" ""
 			(at 229.87 104.14 0)
 			(effects
 				(font
