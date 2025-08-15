@@ -30,7 +30,8 @@ All notable changes to this project will be documented in this file.
 - Make solid GND connection underneath DC/DC converter 
 - Make solid GND connection underneath ASIC
 - Increase minimum clearance to 0.15mm instead of 0.1mm
-- Reduce minimum ttrack width to 0.15mm for few tight spots
+- Reduce minimum track width to 0.15mm for few tight spots
+- Correct VDD plane below ASIC, GND below WiFi chip
 
 ### Removed
 - Unused parts of 3V3 polygon in In2 layer
